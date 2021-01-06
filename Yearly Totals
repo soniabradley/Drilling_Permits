@@ -1,0 +1,4 @@
+INSERT INTO `YearlyTotals` (`Year_Id`, `Permits_Year`)
+VALUES
+	(2014, 25792),
+	(2019, 11654);
